@@ -1,0 +1,38 @@
+{
+  "mailbox": {
+    "title": "Temp Mailbox",
+    "mail_addr": "Email address",
+    "new_mailbox": "New Mailbox",
+    "refresh_mailbox": "Refresh",
+    "delete_mailbox": "Delete",
+    "logout": "Logout",
+    "toggle_language": "中文"
+  },
+  "messages": {
+    "title": "Messages",
+    "subject": "Subject",
+    "loading": "Loading messages...",
+    "no_messages": "No messages yet.",
+    "delete_message": "Delete",
+    "close": "Close",
+    "sender": "From",
+    "receiver": "To",
+    "time": "Time",
+    "tools": "Tools",
+    "view": "View",
+    "collapse": "Collapse"
+  },
+  "login": {
+    "title": "Login",
+    "password": "Password",
+    "login_btn": "Login",
+    "invalid_token": "Invalid token, please try again"
+  },
+  "common": {
+    "auth_failed": "Authentication failed or token is invalid",
+    "request_failed": "Request failed",
+    "confirm_delete_mailbox": "Are you sure you want to delete this mailbox and all its messages?",
+    "confirm_delete_message": "Are you sure you want to delete this message?",
+    "default_domain": "Default Domain"
+  }
+}

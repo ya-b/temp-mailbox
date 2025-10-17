@@ -1,0 +1,38 @@
+{
+  "mailbox": {
+    "title": "临时邮箱",
+    "mail_addr": "邮箱地址",
+    "new_mailbox": "新邮箱",
+    "refresh_mailbox": "刷新",
+    "delete_mailbox": "删除",
+    "logout": "登出",
+    "toggle_language": "English"
+  },
+  "messages": {
+    "title": "邮件",
+    "subject": "主题",
+    "loading": "加载中...",
+    "no_messages": "暂无邮件",
+    "delete_message": "删除",
+    "close": "关闭",
+    "sender": "发件人",
+    "receiver": "收件人",
+    "time": "时间",
+    "tools": "工具",
+    "view": "查看",
+    "collapse": "收起"
+  },
+  "login": {
+    "title": "登录",
+    "password": "密码",
+    "login_btn": "登录",
+    "invalid_token": "TOKEN 不正确，请重试"
+  },
+  "common": {
+    "auth_failed": "身份验证失败或 TOKEN 无效",
+    "request_failed": "请求失败",
+    "confirm_delete_mailbox": "确认删除该邮箱以及所有邮件？",
+    "confirm_delete_message": "确认删除该邮件？",
+    "default_domain": "默认域名"
+  }
+}
