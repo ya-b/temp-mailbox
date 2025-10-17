@@ -1,0 +1,13 @@
+@import './base.css';
+
+body {
+  background: #f8fafc;
+  color: #0f172a;
+}
+
+#app {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
